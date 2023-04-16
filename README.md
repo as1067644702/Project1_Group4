@@ -1,9 +1,9 @@
 # Bioinformatics Group Project 1 Genome Assembly
 # Group4
 ##  1.Description
-All scripts are written in miniconda environment using Git bash and submitted to run on HPC.
-The whole project is mainly divided into three parts: **acquiring data, assembling data, testing assembly quality, annotating assembly, comparing experimental sample and wild-type sample genome, and further analysis**.
-All the specific processes of the project will be shown in the method section below **（Include the ‘tools’ and their versions used in each step)**.
+- All scripts are written in miniconda environment using Git bash and submitted to run on HPC.
+- The whole project is mainly divided into three parts: **acquiring data, assembling data, testing assembly quality, annotating assembly, comparing experimental sample and wild-type sample genome, and further analysis**.
+- All the specific processes of the project will be shown in the method section below **（Include the ‘tools’ and their versions used in each step)**.
 ## 2.Methods
  **2.1 Organization data**
 

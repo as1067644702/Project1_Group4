@@ -46,7 +46,7 @@
 
 - We used the **'act.jar' software** to visualize the alignment results of the two by utilizing the alignment files obtained in the previous step and the .fasta format sequence files of hybrid assemblies 1 and 6. Set an appropriate score cutoff(20000) to exclude invalid contrast abnormal bands. Then mark the end position of the previous segment and the start position of the next segment one by one to find the position with a larger gap.
 
-- And then Use the **'artemis.jar' software ** to check whether there are complete gene fragments on all the gap fragments found in the previous step on hybrid assembly 1 and 6, and record the name of the missing gene fragment.
+- And then Use the **'artemis.jar' software** to check whether there are complete gene fragments on all the gap fragments found in the previous step on hybrid assembly 1 and 6, and record the name of the missing gene fragment.
 
 - Finally, the complete sequence of the missing gene fragment was found in the .faa format files of hybrid assemblies 1 and 6.  The same process was used to analyze the difference between hybrid assemblies 1 and 7.
 

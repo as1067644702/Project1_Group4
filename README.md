@@ -9,6 +9,7 @@
 
 - Our group created separate environments for each tool.
 like this example：
+
 conda create  --prefix /shared/Project1_Resources/Group4 prokka
 
 conda activate shared/Project1_Resources/Group4/prokka

@@ -14,7 +14,7 @@ conda create  --prefix /shared/Project1_Resources/Group4 prokka
 
 conda activate shared/Project1_Resources/Group4/prokka
 
-conda install -c bioconda prokka
+conda install -c bioconda prokka（You can find the installation command for this tool on the [anaconda website](https://anaconda.org/bioconda/prokka)）
 ## 3.Methods
  **3.1 Organization data**
 

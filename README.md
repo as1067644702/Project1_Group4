@@ -1,4 +1,4 @@
-# Bioinformatics Group Project 1 Genome Assembly
+# Bioinformatics Group Project 1: Genome Assembly
 # Group4(Team member:Zeynep Durak, Jordan Tang, Xiuzhiping Quan)
 ## This repository was created and edited by Xiuzhiping Quan
 ##  1.Description

@@ -9,7 +9,7 @@ All the specific processes of the project will be shown in the method section be
 
 - Scripts used: 
 >Integrate_data.sh
-- Purpose: Use the "cat" command to transfer the data files required by the project from the shared folder to the team's project folder. 
+- Purpose: Use the **"cat" command** to transfer the data files required by the project from the shared folder to the team's project folder. 
 
 **2.2 Assemble different kinds of datasets**
 - Scripts used: 

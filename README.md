@@ -7,8 +7,8 @@
 - All the specific processes of the project will be shown in the method section below **（Include the ‘tools’ and their versions used in each step)**.
 ##  2.Prepare the environment for related tools
 
-- Our group created separate environments for each tool.
-like this example：
+- **Our group created separate environments for each tool.
+like this example：**
 
 conda create  --prefix /shared/Project1_Resources/Group4 prokka
 

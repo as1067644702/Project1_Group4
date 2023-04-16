@@ -1,5 +1,5 @@
 # Bioinformatics Group Project 1 Genome Assembly
-# Group4(team member:Zeynep Durak, Jordan Tang, Xiuzhiping Quan)
+# Group4(Team member:Zeynep Durak, Jordan Tang, Xiuzhiping Quan)
 ##  1.Description
 - All scripts are written in miniconda environment using Git bash and submitted to run on HPC.
 - The whole project is mainly divided into three parts: **acquiring data, assembling data, testing assembly quality, annotating assembly, comparing experimental sample and wild-type sample genome, and further analysis**.

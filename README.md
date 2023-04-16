@@ -9,9 +9,9 @@
 
 - Our group created separate environments for each tool.
 like this example：
-conda create  --prefix /shared/Project1_Resources/Group4 prokka
-conda activate shared/Project1_Resources/Group4/prokka
-conda install -c bioconda prokka
+step1:conda create  --prefix /shared/Project1_Resources/Group4 prokka
+step2:conda activate shared/Project1_Resources/Group4/prokka
+step3:conda install -c bioconda prokka
 ## 3.Methods
  **3.1 Organization data**
 

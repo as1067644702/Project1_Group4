@@ -14,10 +14,10 @@
 **2.2 Assemble different kinds of datasets**
 - Scripts used: 
 >Longread_Assembly.sh 
-Shortread_Assembly.sh
-Hybrid_1_Assembly.sh
-Hybrid_6_Assembly.sh
-Hybrid_7_Assembly.sh
+>Shortread_Assembly.sh
+>Hybrid_1_Assembly.sh
+>Hybrid_6_Assembly.sh
+>Hybrid_7_Assembly.sh
 - We chose unicycler to **assemble short-read data files(Unicycler v0.4.8)**, **long-read data files(Unicycler v0.4.8)**, and **hybrid data files(Unicycler v0.5.0)** respectively. Due to the limitations of the HPC computing unit, we use a later version of the unicycler(faster performance and better memory efficiency) to assemble the hybrid.
 
 **2.3 Visualize assembled files**
